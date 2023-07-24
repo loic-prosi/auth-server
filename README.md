@@ -1,0 +1,3 @@
+# auth-server
+
+Authentication server.
